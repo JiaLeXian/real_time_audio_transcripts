@@ -1,3 +1,3 @@
-# youtube_transcripts
+# real_time_audio_transcripts
  
-I adapted OpenAI's Whsiper Model and allow it to perfrom real time transcriptions taking for any Youtube video with just a URL link.
+Generating real time transcripts for any audio or video calls using OpanAI's Whisper model, no limits in the length of the call. OpenAI's Whsiper model doens't allow real time speech to text recognition yet, I adapted the model to allow real time speech recogntion. 
